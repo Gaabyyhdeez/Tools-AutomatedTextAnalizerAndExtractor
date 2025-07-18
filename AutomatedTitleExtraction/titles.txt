@@ -1,0 +1,321 @@
+Deep Dive: Advanced Generative AI
+Leading Change When Moving to Google Cloud
+Introduction to Google Agentspace
+Optimizing Your Google Cloud Costs
+Innovating with Google Cloud Artificial Intelligence
+Cloud Digital Leader
+Cloud Digital Leader
+Cloud Digital Leader
+Cloud Digital Leader
+Trust and Security with Google Cloud
+Managing Change when Moving to Google Cloud
+Change Management for Google Workspace
+Change Management for Google Workspace
+Exploring Data Transformation with Google Cloud
+Data-Driven Transformation with Google Cloud
+Digital Transformation  with Google Cloud
+Digital Transformation with Google Cloud
+Empower Decision Makers with Generative AI
+Getting Started with FinOps on Google Cloud
+Introduction to Generative AI for Decision Makers
+Generative AI Leader
+Scaling with Google Cloud Operations
+Google Cloud Product Fundamentals
+Gemini for Google Workspace
+Gen AI: Beyond the Chatbot
+Conversational AI on Vertex AI and Dialogflow CX
+Gen AI: Unlock Foundational Concepts
+Gen AI: Navigate the Landscape
+Gen AI Apps: Transform Your Work
+Google Threat Intelligence
+Modernize Infrastructure and Applications with Google Cloud
+Introduction to Responsible AI
+Industry Use Cases for Generative AI
+Analyzing and Visualizing Data in Looker
+Developing Data Models with LookML
+Managing Machine Learning projects with Google Cloud
+Optimizing Google Cloud Costs
+Responsible AI for Digital Leaders with Google Cloud
+Introduction to Security in the World of AI
+Unleash Team Potential: Assess Learning Needs Using GenAI
+Developing a Google SRE Culture
+Gen AI Agents: Transform Your Organization
+Business Transformation with Google Cloud
+Create Engaging Video with Google Vids
+Writing Effective Prompts for Generative AI
+Using BigQuery Machine Learning for inference
+Create Image Captioning Models
+Cloud Digital Leader
+Introduction to Generative AI
+Attention Mechanism
+Encoder-Decoder Architecture
+Introduction to Image Generation
+Transformer Models and BERT Model
+Introduction to Large Language Models
+G Suite Administration
+Inside Track: Certificate Authority Service
+Inside Track: Dataflow Advanced
+Inside Track: Cloud Network Operations: Network Monitoring and Troubleshooting
+Inside Track: SQL Server: Advanced
+Deploy multi-agent systems with Agent Development Kit and Agent Engine
+Accelerate knowledge exchange with Google Agentspace
+Inside Track: Authoring and Connectors in Google Apigee Integration
+Build and Deploy a Generative AI solution using a RAG framework
+Customer Engagement Suite with Google AI Skill Badge Sessions
+Managing Change for Google Workspace
+Developing apps with Vertex AI Agent Builder
+Custom Search with Embeddings in Vertex AI
+Gemini for Developers
+Develop Apps with Conversational Agents
+Empower Gen AI Apps with Tool Use
+Generative AI for Business Leaders
+Introduction to Google Distributed Cloud air-gapped
+L200 Google Distributed Cloud Air-Gapped
+L300 Google Distributed Cloud connected
+L200 Google Distributed Cloud Connected
+L300 Google Distributed Cloud air-gapped
+Conversational AI on Vertex AI and Dialogflow CX
+Enterprise Search on Generative AI App Builder
+Search on Vertex AI Agent Builder
+Recommendations on Vertex AI Agent Builder
+Multi-modal prompt engineering with Generative AI Studio
+Partnering with Generative AI: A Technical Workshop for Practical Success
+Implementing Generative AI with Vertex AI
+Getting Started with Google Cloud VMware Engine
+Introduction to NotebookLM
+Intelligent Search Skill Badge Sessions
+Inside Track: Looker Multistage Development Framework
+Migrating, Backing Up, and Disaster Recovery in Google Cloud VMware Engine
+Networking in Google Cloud VMware Engine
+Orchestrate Gen AI applications with Firebase Genkit
+Orchestrating Gen AI Applications with LangChain
+Professional Database Engineer Quest
+Rapid Migration Program (RaMP)
+[Error extracting title]
+Responsible AI: Applying AI Principles with Google Cloud
+Accelerate knowledge exchange with Agentspace
+The Business Value Discovery Process
+Gen AI Boost
+Build with Vertex AI Skill Badge Sessions
+Building Generative AI Applications with Vertex AI for Partners
+Protect Your Data with Google Workspace Security
+Webinar: Accelerating Development with Gemini Code Assist
+Architecting Hybrid Cloud Infrastructure with Anthos
+Contact Center AI Foundations
+Document AI
+Data Warehouse Foundations: Priority Solution Tech Training for Partners
+Enterprise Database Migration Foundations
+Looker: Engagement Manager Readiness for Emerging Growth Delivery
+Vertex AI Search for Commerce
+SAP on Google Cloud Foundations: Priority Solution Tech Training for Partners
+Vertex AI Forecasting
+Visual Inspection AI
+Deploying and Managing Google Cloud VMware Engine
+VMware as a Service Foundations: Priority Solution Tech Training for Partners
+Data Warehousing for Partners
+Enterprise Database Migration
+VM Migration for Partners
+Gen AI: Beyond the Chatbot
+Google Workspace Administration
+Getting Started with Google Workspace
+Gemini for Google Workspace
+Gemini for Google Workspace
+Application Development with LLMs on Google Cloud
+Architecting Hybrid Cloud Infrastructure with Anthos
+Multi-cluster, Multi-cloud with Anthos
+Cloud Operations and Service Mesh with Anthos
+Anthos on Bare Metal
+Hybrid Cloud Modernizing Applications with Anthos
+Cloud Run for AI Inference
+Machine Learning for Trading
+Introduction to AI and Machine Learning on Google Cloud
+Architecting with Google Kubernetes Engine
+Looker Developer Deep Dive
+Developing APIs with Google Cloud's Apigee API Platform
+Managing Google Cloud's Apigee API Platform for Hybrid Cloud
+[Error extracting title]
+Installing and Managing Google Cloud's Apigee API Platform for Private Cloud
+Service Orchestration and Choreography with Google Cloud
+Building Applications with Eventarc on Google Cloud
+Application Development with Cloud Run
+Building No-Code Apps with AppSheet: Foundations
+Building No-Code Apps with AppSheet: Implementation
+Building No-Code Apps with AppSheet: Automation
+AppSheet Administration
+AppSheet Team Hierarchy
+Building Batch Data Pipelines on Google Cloud
+Building a Virtual Agent with Dialogflow CX
+Create Generative AI Apps on Google Cloud
+Boost Productivity with Gemini in BigQuery
+BigQuery for Data Analysts
+BigQuery Fundamentals for Oracle Professionals
+BigQuery Fundamentals for Redshift Professionals
+BigQuery Fundamentals for Snowflake Professionals
+BigQuery Fundamentals for Teradata Professionals
+Building Solutions with Apigee X
+Develop Conversational Agents on Google Cloud
+Configure and Maintain CCAIP as an Admin
+Handle Consumer Interactions with CCAIP
+Manage Functions and Reporting with CCAIP
+Customer Experiences with Contact Center AI
+Customer Experiences with Contact Center AI- Dialogflow CX
+Customer Experiences with Contact Center AI- Dialogflow ES
+Introduction to Cloud Identity
+Launching into Machine Learning
+Conversation Design Fundamentals
+Streamline App Development with Gemini Code Assist
+Introduction to Developer Efficiency with Gemini on Google Cloud
+Developing Applications with Google Cloud: Foundations
+Data Integration with Cloud Data Fusion
+Data Ingestion and Management on Google Cloud
+Modernizing Data Lakes and Data Warehouses with Google Cloud
+Deploying and Managing Windows Workloads on Google Cloud
+Deploying SAP on Google Cloud
+Duet AI in Google Cloud
+Developing Containerized Applications on Google Cloud
+Developing Applications with Cloud Run on Google Cloud: Fundamentals
+Build Generative AI Apps with Firebase Genkit
+Developing Applications with Cloud Run Functions on Google Cloud
+Data Warehousing with BigQuery: Storage Design, Query Optimization, and Administration
+Create Embeddings, Vector Search, and RAG with BigQuery
+Generative AI in Production
+Select a Google Cloud Database for Your Applications
+Google Cloud Fundamentals for Researchers
+Google Cloud Infrastructure for Azure Professionals
+Google Cloud Infrastructure for AWS Professionals
+Preparing for Your Associate Cloud Engineer Journey
+Advanced Machine Learning with TensorFlow on Google Cloud Platform
+Google Cloud Fundamentals for AWS Professionals
+Google Cloud Fundamentals for Azure Professionals
+From Data to Insights with Google Cloud
+Google Cloud Big Data and Machine Learning Fundamentals
+Data Engineering on Google Cloud
+Developing Applications with Google Cloud
+Building Conversational Experiences with Dialogflow
+From Data to Insights with Google Cloud
+Google Cloud Fundamentals: Core Infrastructure
+Architecting with Google Compute Engine
+[Error extracting title]
+Architecting with Google Cloud Design and Process
+Machine Learning on Google Cloud
+Preparing for Professional Machine Learning Engineer
+Networking in Google Cloud v3.0
+Networking in Google Cloud: Fundamentals
+Networking in Google Cloud: Routing and Addressing
+Networking in Google Cloud: Network Architecture
+Networking in Google Cloud: Network Security
+Networking in Google Cloud: Network Security
+Networking in Google Cloud: Load Balancing
+Networking in Google Cloud: Hybrid and Multicloud
+Preparing for Your Professional Cloud Architect Journey
+Preparing for Your Professional Cloud Network Engineer Journey
+Preparing for Your Professional Cloud Security Engineer Journey
+Preparing for your Professional Data Engineer Journey
+Modernizing Retail and Ecommerce Solutions with Google Cloud
+Security in Google Cloud
+Google Cloud VMware Engine Fundamentals
+GDC Air-Gapped Practitioner Fundamentals
+GDC Platform Introduction
+Compute, Network, and Storage Services Configuration in GDC
+AI Services and GDC Deployments and Operations
+GDC Air-Gapped Security Operator Fundamentals
+Introduction to SecOps on GDC
+SecOps on GDC for Tier 1 and Tier 2 Analysts
+SecOps on GDC for Tier 3 Analysts
+Work with Gemini Models in BigQuery
+Integrating Applications with Gemini 1.0 Pro on Google Cloud
+Build Generative AI Agents with Vertex AI and Flutter
+Introduction to Vertex AI Studio
+Enterprise Search on Generative AI App Builder
+Generative AI for Healthcare
+Manage Scalable Workloads in GKE Enterprise
+Configure Google Kubernetes Engine Networking
+Getting Started with FinOps on Google Cloud - FinOps Engineer
+Getting Started with FinOps on Google Cloud - FinOps Practitioner
+Google Workspace Data Governance
+Google Workspace Security
+How Google Does Machine Learning
+Computer Vision Fundamentals with Google Cloud
+Introduction to Data Analytics on Google Cloud
+Introduction to Data Engineering on Google Cloud
+Google Cloud Infrastructure for AWS Professionals
+Google Cloud IAM and Networking for AWS Professionals
+Google Cloud Compute and Scalability for AWS Professionals
+Google Cloud Storage and Containers for AWS Professionals
+Deploy and Monitor in Google Cloud for AWS Professionals
+Google Cloud Infrastructure for Azure Professionals
+Google Cloud IAM and Networking for Azure Professionals
+Google Cloud Infrastructure for  Azure professionals: Compute  Resources and Load Balancing
+Google Cloud Compute and Scalability for Azure Professionals
+Google Cloud Storage and Containers for Azure Professionals
+Deploy and Monitor in Google Cloud for Azure Professionals
+Google Workspace User and Resource Management
+Industrial IoT on Google Cloud
+Introduction to TensorFlow 2.x
+Building Scalable Java Microservices with Spring Boot and Spring Cloud
+Getting Started with Google Kubernetes Engine
+Introduction to Looker
+Getting Started with LookML
+Looker Studio Essentials
+Looker Studio Pro Essentials
+Managing a Data Mesh with Dataplex
+Managing a Data Mesh with Dataplex
+Design Foundations for Streaming with Google Cloud
+Media Rendering with Google Cloud
+Serving Multimedia Content with Google Cloud
+Google Workspace Core Services
+Migrating to Google Cloud
+How Google Does Machine Learning
+Launching into Machine Learning
+Build, Train, and Deploy ML Models with Keras on Google Cloud
+Feature Engineering
+Machine Learning in the Enterprise
+Art and Science of Machine Learning
+Machine Learning Operations (MLOps) with Vertex AI: Manage Features
+Machine Learning Operations (MLOps) with Vertex AI: Model Evaluation
+MLOps (Machine Learning  Operations) Fundamentals
+Course 1 - Machine Learning Operations (MLOps): Getting Started
+Machine Learning Operations (MLOps) for Gen AI
+ML Pipelines on Google Cloud
+Model Armor: Securing AI Deployments
+Migrating Amazon Redshift Users to BigQuery
+Migrating Snowflake Users to BigQuery
+Migrating Teradata Users to BigQuery
+Introduction to Cloud Next Generation Firewall
+Evaluate Your Cloud Next Generation Firewall Needs
+Secure VPC Networks with Cloud Next Generation Firewall
+Orchestrate BigQuery Workloads with Dataform
+Preparing for Your Professional Cloud Database Engineer Journey
+Preparing for Your Google Workspace Administrator Journey
+Production Machine Learning Systems
+Introduction to ReCAPTCHA
+Fundamentals of Reliable Deep Learning
+Responsible AI for Developers: Fairness & Bias
+Responsible AI for Developers: Interpretability & Transparency
+Responsible AI for Developers: Privacy & Safety
+Recommendation Systems on Google Cloud
+Getting Started with Security Command Center Enterprise
+Serverless Data Processing with Dataflow
+Serverless Data Processing with Dataflow: Foundations
+Serverless Data Processing with Dataflow: Operations
+Serverless Data Processing with Dataflow: Develop Pipelines
+Supervised Fine-tuning for Gemini
+Smart Analytics, Machine Learning, and AI on Google Cloud
+Natural Language Processing on Google Cloud
+Site Reliability Engineering: Measuring and Managing Reliability
+Logging, Monitoring, and Observability in Google Cloud
+Building Resilient Streaming Analytics Systems on Google Cloud
+Technical Foundations of FinOps on Google Cloud
+Getting Started with Terraform for Google Cloud
+Google Workspace Troubleshooting
+Understanding Cloud Spanner
+Understanding Cloud Spanner
+Vertex AI and Generative AI Security
+Vertex AI Agent Builder
+Vertex Forecasting and Time Series in Practice
+Working with Notebooks in Vertex AI
+Vector Search and Embeddings
+Website Modernization with Generative AI on Google Cloud
+Developing and Deploying Windows Workloads on Google Cloud Platform
+Develop and Deploy Windows Applications on Google Cloud
+Workflow Orchestration with Cloud Composer
